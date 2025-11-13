@@ -1,0 +1,31 @@
+[
+  {"date": "2025-12-04", "city": "Nagpur", "possibility": "100%"},
+  {"date": "2025-12-05", "city": "Paratwada", "possibility": "20%"},
+  {"date": "2025-12-06", "city": "Buldhana", "possibility": "30%"},
+
+  {"date": "2025-12-08", "city": "Bandra, Mumbai", "possibility": "50%"},
+  {"date": "2025-12-09", "city": "Ahmednagar", "possibility": "100%"},
+  {"date": "2025-12-10", "city": "Sangli", "possibility": "100%"},
+  {"date": "2025-12-11", "city": "Kolhapur", "possibility": "100%"},
+  {"date": "2025-12-12", "city": "Miraj", "possibility": "100%"},
+  {"date": "2025-12-13", "city": "Ichalkaranji", "possibility": "100%"},
+
+  {"date": "2025-12-14", "city": "Kodoli / Karad", "possibility": "20%"},
+  {"date": "2025-12-15", "city": "Satara", "possibility": "30%"},
+  {"date": "2025-12-16", "city": "Karad / Pune", "possibility": "100%"},
+  {"date": "2025-12-17", "city": "Adul, Aurangabad", "possibility": "100%"},
+  {"date": "2025-12-18", "city": "Jawla Bazar, Parbhani", "possibility": "100%"},
+  {"date": "2025-12-19", "city": "Shirur", "possibility": "20%"},
+  {"date": "2025-12-20", "city": "Mumbai", "possibility": "10%"},
+
+  {"date": "2025-12-21", "city": "Palghar", "possibility": "10%"},
+  {"date": "2025-12-22", "city": "Ambernath", "possibility": "10%"},
+  {"date": "2025-12-23", "city": "Mira Road", "possibility": "80%"},
+  {"date": "2025-12-24", "city": "Wadala", "possibility": "0%"},
+  {"date": "2025-12-25", "city": "Solapur", "possibility": "50%"},
+  {"date": "2025-12-26", "city": "Bandra", "possibility": "-"},
+
+  {"date": "2025-12-28", "city": "Pune", "possibility": "30%"},
+  {"date": "2025-12-29", "city": "Nashik", "possibility": "50%"},
+  {"date": "2025-12-30", "city": "Solapur", "possibility": "-"}
+]
